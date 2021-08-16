@@ -1,8 +1,4 @@
-var inputyearjs272053js=2020
-var inputmonthjs272053js=10
-var inputdayjs272053js=18
-var inputhourjs272053js=23
-var inputminjs272053js=59
+
 var targerdayjs272053js=new Date(inputyearjs272053js, inputmonthjs272053js-1, inputdayjs272053js, inputhourjs272053js, inputminjs272053js, 0);
 var currentdayjs272053js = new Date();
 var currentdayjs272053js_f = new Date();
